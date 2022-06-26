@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"BothoUlni","l":"french"},{"p":"BothoUlni","l":"MainClass"},{"p":"BothoUlni","l":"Project"},{"p":"BothoUlni","l":"setswana"}];updateSearchResults();
